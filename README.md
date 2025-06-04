@@ -33,6 +33,23 @@ A fun and interactive rhythm game that lets you upload a **clap or tap audio**, 
 
 ## 📁 Folder Structure
 
+
+## ⚙️ How to Run the App
+
+- Clone the repository
+```bash
+git clone https://github.com/yourusername/clap-tempo-dance-game.git
+cd clap-tempo-dance-game
+```
+
+- Install dependencies
+`pip install -r requirements.txt`
+
+- Start the app
+  `streamlit run app.py`
+
+
+
 ```bash
 clap-tempo-dance-game/
 │
