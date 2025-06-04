@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![librosa logo](docs/img/librosa_logo_text.svg)](https://librosa.org/)
 
 # librosa
@@ -208,3 +209,6 @@ If you want to cite librosa in a scholarly work, there are two ways to do it.
 ---
 
 [Back To Top ↥](#librosa)
+=======
+# clapTempo
+>>>>>>> 1086b6d2a03803a39e9570ea0b746308d79331c7
