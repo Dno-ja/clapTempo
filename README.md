@@ -39,7 +39,6 @@ A fun and interactive rhythm game that lets you upload a **clap or tap audio**, 
 - Clone the repository
 ```bash
 git clone https://github.com/Dno-ja/clapTempo.git
-cd clap-tempo-dance-game
 ```
 
 - Install dependencies
