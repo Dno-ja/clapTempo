@@ -70,3 +70,4 @@ venv/
 # (Optional) If you want to ignore notebooks
 *.ipynb              
 
+librosa/
